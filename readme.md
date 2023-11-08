@@ -12,9 +12,8 @@ This macronutrient calculator computes macronutrient requirements relative to ag
 3. Activate the [Macro Calculator](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_macro_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Macro Calculator to the sidebar through the `Appearance -> Widgets -> Macro Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
+* Add the shortcode `[ci_macro_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
