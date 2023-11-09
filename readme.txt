@@ -13,6 +13,8 @@ This macronutrient calculator computes macronutrient requirements relative to ag
 
 This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 
+[Macro Calculator Homepage](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage")
+
 __Shortcode__
 
 Use the Macro Calculator shortcode:
