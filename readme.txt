@@ -13,34 +13,35 @@ This macronutrient calculator computes macronutrient requirements relative to ag
 
 This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 
-[Macro Calculator Homepage](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage")
+[https://www.calculator.io/macro-calculator/](https://www.calculator.io/macro-calculator/)
 
-__Shortcode__
-
-Use the Macro Calculator shortcode:
+__Macro Calculator Shortcode__
 
 `[ci_macro_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_macro_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Macro Calculator](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Macro Calculator Usage ==
+
 * Add the shortcode `[ci_macro_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
 
 == Screenshots ==
+
 1. The Macro Calculator Input Form.
 2. The Macro Calculator Calculation Results.
+
+== Libraries used in Macro Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
