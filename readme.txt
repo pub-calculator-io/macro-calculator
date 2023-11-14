@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 
-== Description ==
-
-This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
-
 [https://www.calculator.io/macro-calculator/](https://www.calculator.io/macro-calculator/)
 
-__Macro Calculator Shortcode__
+== Usage ==
+
+Add the Macro Calculator shortcode to your page, post or sidebar:
 
 `[ci_macro_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Macro Calculator to appear:
 
-1. Upload the /ci_macro_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Macro Calculator](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Macro Calculator Usage ==
-
-* Add the shortcode `[ci_macro_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
+`<?php display_ci_macro_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Macro Calculator Input Form.
 2. The Macro Calculator Calculation Results.
 
-== Libraries used in Macro Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Macro Calculator /ci_macro_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Macro Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Macro Calculator
