@@ -1,6 +1,6 @@
 === Macro Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: macro calculator, calculate macros, daily macronutrients, macronutrient intake, diet planning, nutritional calculator, protein, carbohydrates, fats, calorie calculator, macro ratios, healthy eating
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
