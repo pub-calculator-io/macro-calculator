@@ -1,4 +1,4 @@
-# Macro Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Macro Calculator Widget for WordPress
 
 This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 
