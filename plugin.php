@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Macro Calculator by www.calculator.io
+Plugin Name: CI Macro calculator
 Plugin URI: https://www.calculator.io/macro-calculator/
 Description: This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 Version: 1.0.0
