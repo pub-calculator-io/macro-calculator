@@ -1,4 +1,4 @@
-=== Macro Calculator ===
+=== Macro Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: macro calculator, calculate macros, daily macronutrients, macronutrient intake, diet planning, nutritional calculator, protein, carbohydrates, fats, calorie calculator, macro ratios, healthy eating
 Requires at least: 5.0

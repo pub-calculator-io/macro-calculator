@@ -7,7 +7,7 @@ This macronutrient calculator computes macronutrient requirements relative to ag
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/macro-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /macro-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Macro Calculator](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
