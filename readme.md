@@ -3,7 +3,6 @@
 This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
 
 ![Macro Calculator Input Form](/assets/images/screenshot-1.png "Macro Calculator Input Form")
-![Macro Calculator Calculation Results](/assets/images/screenshot-2.png "Macro Calculator Calculation Results")
 
 ## Installation
 

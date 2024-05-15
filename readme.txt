@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Macro Calculato
 == Screenshots ==
 
 1. The Macro Calculator Input Form.
-2. The Macro Calculator Calculation Results.
 
 == Installation ==
 
