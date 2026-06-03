@@ -1,6 +1,6 @@
 # Macro Calculator Widget for WordPress
 
-This macronutrient calculator computes macronutrient requirements relative to age, physical attributes, exercise level, and body weight objectives.
+Discover your ideal daily macronutrient intake with our free Macro Calculator. Get personalized protein, carb, and fat ratios to hit your fitness goals faster!
 
 ![Macro Calculator Input Form](/assets/images/screenshot-1.png "Macro Calculator Input Form")
 
@@ -11,8 +11,8 @@ This macronutrient calculator computes macronutrient requirements relative to ag
 3. Activate the [Macro Calculator](https://www.calculator.io/macro-calculator/ "Macro Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_macro_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
+* Add the shortcode `[calcio_macro_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_macro_calculator(); ?>` to your template where you would like the Macro Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
